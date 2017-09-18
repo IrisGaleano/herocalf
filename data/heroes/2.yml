@@ -8,7 +8,7 @@ familiar:     { id: 11, name: "Basidio" }
 pareja:       { nombre: "Lauranna", raza: "dead", tipo: "pnj" }
 profesion:    { id: 5, aprendiz: [0, 3, 4, 5] }
 repu:         9
-nivel:        19
+nivel:        20
 cuerpo:       15
 mente:        12
 mov:          12
